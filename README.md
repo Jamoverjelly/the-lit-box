@@ -25,7 +25,7 @@ January 4, 2019
 - Plans to provide a second booth for customers is in the works. This booth is anticipated to be:
   - Lightweight / cheaper to reserve for events
   - Does not offer DSLR capability (simpler to use)
-  - Likely a booth running on a tablet (like iPad)
+  - Likely a booth running on a tablet (iPad)
 
 **Packages**
 
